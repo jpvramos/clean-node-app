@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jpvramos/clean-node-app/issues"
   },
-  "homepage": "https://github.com/jpvramos/clean-node-app#readme"
+  "homepage": "https://github.com/jpvramos/clean-node-app#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.1.0"
+  }
 }
